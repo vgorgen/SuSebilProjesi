@@ -123,4 +123,10 @@ The system periodically checks if the key is pressed to trigger water dispensing
 Each press adds a defined amount of water (10 ml in this case) and updates the water level through an event handler, which also updates the display to show the new water level.
 This process continues until the total amount reaches the size of the cup (200 ml).
 
+## Credits
+- Veysel Gorgen
+  
+|     | 
+| --- | 
+| ![Veysel Görgen](https://avatars.githubusercontent.com/u/92218276?s=400&u=fc273166491e26ed615ab53bca7820f43b9f230e&v=4)<br />**Veysel Görgen**<br />[💻 ⚠️ 🐛](https://github.com/amplication/amplication/commits?author=vgorgen) |
 ## END
