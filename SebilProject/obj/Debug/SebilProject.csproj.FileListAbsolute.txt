@@ -1,0 +1,8 @@
+C:\Users\VEYSEL\vgorgen\LeetCode\SebilProject\SebilProject\bin\Debug\SebilProject.exe.config
+C:\Users\VEYSEL\vgorgen\LeetCode\SebilProject\SebilProject\bin\Debug\SebilProject.exe
+C:\Users\VEYSEL\vgorgen\LeetCode\SebilProject\SebilProject\bin\Debug\SebilProject.pdb
+C:\Users\VEYSEL\vgorgen\LeetCode\SebilProject\SebilProject\obj\Debug\SebilProject.csproj.AssemblyReference.cache
+C:\Users\VEYSEL\vgorgen\LeetCode\SebilProject\SebilProject\obj\Debug\SebilProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\VEYSEL\vgorgen\LeetCode\SebilProject\SebilProject\obj\Debug\SebilProject.csproj.CoreCompileInputs.cache
+C:\Users\VEYSEL\vgorgen\LeetCode\SebilProject\SebilProject\obj\Debug\SebilProject.exe
+C:\Users\VEYSEL\vgorgen\LeetCode\SebilProject\SebilProject\obj\Debug\SebilProject.pdb
